@@ -69,7 +69,7 @@ with open("tutswiki.json", "w") as jsonfile:
 
 Output:
 ```console
-Write successful
+Write successful 
 
 Process finished with exit code 0
 ```
